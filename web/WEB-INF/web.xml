@@ -21,6 +21,8 @@
     </servlet-mapping>
     <welcome-file-list>
 <!--        <welcome-file>/WEB-INF/views/inputMoney.jsp</welcome-file>-->
-        <welcome-file>/WEB-INF/views/inputEnglish.jsp</welcome-file>
+<!--        <welcome-file>/WEB-INF/views/inputEnglish.jsp</welcome-file>-->
+<!--        <welcome-file>/WEB-INF/views/inputSandwich.jsp</welcome-file>-->
+        <welcome-file>/WEB-INF/views/Caculator.jsp</welcome-file>
     </welcome-file-list>
 </web-app>
